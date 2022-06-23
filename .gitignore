@@ -169,3 +169,4 @@ cython_debug/
 !/Config/*.*
 /output
 Penumbuk Api Inventory Bot.exe
+!/Penumbuk Api Inventory Bot/Penumbuk Api Inventory Bot.exe
